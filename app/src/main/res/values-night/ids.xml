@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnGuru" type="id" />
+    <item name="bckButton" type="id" />
+    <item name="bkButton" type="id" />
+</resources>

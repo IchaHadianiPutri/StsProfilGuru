@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sts_ProfilGuru</string>
+    <string name="nama_icha_hadiani_putri">Nama : Icha Hadiani Putri</string>
+    <string name="alamat_sidorawuh_rt05_02">Alamat : Sidorawuh rt05/02</string>
+    <string name="nis_2233290">NIS : 2233290</string>
+    <string name="kelas_xi_pplg2">Kelas : XI PPLG2</string>
+    <string name="nama_nurul_hidayati_s_psi_m_pd">Nama : NURUL HIDAYATI,S.Psi,M.Pd</string>
+    <string name="nip_197907142009032004">NIP : 197907142009032004</string>
+    <string name="ttl_demak_14_juli_1979">TTL :DEMAK,14 Juli 1979</string>
+    <string name="alamat_kp_tembiring_rt_007_rw_003_bintoro_demak">Alamat : Kp Tembiring RT 007 Rw 003 Bintoro Demak</string>
+</resources>
